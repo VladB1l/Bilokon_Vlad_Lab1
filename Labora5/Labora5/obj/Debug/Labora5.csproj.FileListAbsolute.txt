@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Labora5\Labora5\bin\Debug\Labora5.exe.config
+C:\Users\Vlad\source\repos\Labora5\Labora5\bin\Debug\Labora5.exe
+C:\Users\Vlad\source\repos\Labora5\Labora5\bin\Debug\Labora5.pdb
+C:\Users\Vlad\source\repos\Labora5\Labora5\obj\Debug\Labora5.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\Labora5\Labora5\obj\Debug\Labora5.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Labora5\Labora5\obj\Debug\Labora5.exe
+C:\Users\Vlad\source\repos\Labora5\Labora5\obj\Debug\Labora5.pdb
