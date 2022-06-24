@@ -7,11 +7,7 @@ namespace Laborat1
 {
     class Complex
     {
-        public Complex(double realvalue, double imaginary)
-        {
-            this.realvalue = realvalue;
-            this.imaginary = imaginary;
-        }
+       
         public override string ToString()
         {
             return (String.Format("{0}+({1})i", realvalue, imaginary));
